@@ -11,12 +11,12 @@ Welcome to the Infinite Adventure Game! This text-based game offers an endless j
 
 1. **Installation**: Ensure you have Perl installed on your system. You can download and install Perl from the official website: [perl.org](https://www.perl.org/get.html)
 
-2. **Download the Script**: Download the Perl script file (e.g., `adventure_game.pl`) from the provided source.
+2. **Download the Script**: Download the Perl script file (e.g., `adventuregame.pl`) from the provided source.
 
 3. **Run the Script**: Open a terminal or command prompt, navigate to the directory where the script is located, and run the script using the following command:
 
     ```
-    perl adventure_game.pl
+    perl adventuregame.pl
     ```
 
 4. **Follow the Instructions**: Once the script is running, follow the on-screen instructions to play the game.
